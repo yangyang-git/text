@@ -1,4 +1,4 @@
 # text
 lallalalal
-creating a branch is easy
+creating a branch is fast
 hello and hi
